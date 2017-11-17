@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.jh
+/.idea
+*.class
+*.jpg
+*.iml
+database
+*.db
